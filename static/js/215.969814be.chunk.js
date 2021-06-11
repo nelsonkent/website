@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[215],{1800:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/Hand Lettering.fe70c6d6.jpg"}}]);
+//# sourceMappingURL=215.969814be.chunk.js.map

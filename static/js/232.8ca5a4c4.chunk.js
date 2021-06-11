@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[232],{1817:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/Bachelorette & Bridal.894f99db.jpg"}}]);
+//# sourceMappingURL=232.8ca5a4c4.chunk.js.map

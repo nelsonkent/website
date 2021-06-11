@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[117],{1702:function(t,e,s){"use strict";s.r(e),e.default=s.p+"static/media/How to cut the mask.73ef6d57.jpg"}}]);
+//# sourceMappingURL=117.0f7fd2e3.chunk.js.map

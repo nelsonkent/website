@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[298],{1883:function(i,t,e){"use strict";e.r(t),t.default=e.p+"static/media/Shop By Yarn Weight.1c5954a0.jpg"}}]);
+//# sourceMappingURL=298.63a7725e.chunk.js.map

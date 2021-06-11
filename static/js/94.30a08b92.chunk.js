@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[94],{1679:function(s,a,t){"use strict";t.r(a),a.default=t.p+"static/media/Wood Crafts & Blank Surfaces.2df4a504.jpg"}}]);
+//# sourceMappingURL=94.30a08b92.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[28],{1613:function(t,e,i){"use strict";i.r(e),e.default=i.p+"static/media/Fondant.8ec5d310.jpg"}}]);
+//# sourceMappingURL=28.cb07feb9.chunk.js.map

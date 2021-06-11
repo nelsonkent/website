@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[118],{1703:function(s,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Masks Fabric.839d6dc9.jpg"}}]);
+//# sourceMappingURL=118.a36f26af.chunk.js.map

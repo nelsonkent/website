@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[13],{1598:function(a,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Paper & Drawing Pads.47c4a610.jpg"}}]);
+//# sourceMappingURL=13.53e21312.chunk.js.map

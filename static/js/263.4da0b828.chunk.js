@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[263],{1848:function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Jewelry Holders & Jewelry Storage.686995ec.jpg"}}]);
+//# sourceMappingURL=263.4da0b828.chunk.js.map

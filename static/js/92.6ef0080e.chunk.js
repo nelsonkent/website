@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[92],{1677:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Trending Crafts.d5f52240.jpg"}}]);
+//# sourceMappingURL=92.6ef0080e.chunk.js.map

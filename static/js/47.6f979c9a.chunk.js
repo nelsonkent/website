@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[47],{1632:function(i,s,e){"use strict";e.r(s),s.default=e.p+"static/media/UV Resin.cfa541f3.jpg"}}]);
+//# sourceMappingURL=47.6f979c9a.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[235],{1820:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/General Birthday.bbf09f91.jpg"}}]);
+//# sourceMappingURL=235.cf888480.chunk.js.map

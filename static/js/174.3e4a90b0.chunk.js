@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[174],{1759:function(s,a,e){"use strict";e.r(a),a.default=e.p+"static/media/Planners & Journals.1a87cdf9.jpg"}}]);
+//# sourceMappingURL=174.3e4a90b0.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[126],{1711:function(s,e,a){"use strict";a.r(e),e.default=a.p+"static/media/Candles & Fragrances.00477d37.jpg"}}]);
+//# sourceMappingURL=126.fad6f1df.chunk.js.map

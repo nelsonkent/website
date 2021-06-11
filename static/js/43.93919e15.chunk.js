@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[43],{1628:function(t,i,a){"use strict";a.r(i),i.default=a.p+"static/media/Metal Stamping.743ddfa1.jpg"}}]);
+//# sourceMappingURL=43.93919e15.chunk.js.map

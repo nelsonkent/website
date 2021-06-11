@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[85],{1670:function(t,e,i){"use strict";i.r(e),e.default=i.p+"static/media/Leather Crafting.7cd9fba5.jpg"}}]);
+//# sourceMappingURL=85.cce71ae2.chunk.js.map

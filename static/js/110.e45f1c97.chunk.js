@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[110],{1709:function(e,s,i){"use strict";i.r(s),s.default=i.p+"static/media/DIY Face Masks & Shields.e1ef9c12.jpg"}}]);
+//# sourceMappingURL=110.e45f1c97.chunk.js.map

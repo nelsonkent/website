@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[70],{1664:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Craft Machines.41547329.jpg"}}]);
+//# sourceMappingURL=70.e38372f7.chunk.js.map

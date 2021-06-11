@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[212],{1797:function(i,t,e){"use strict";e.r(t),t.default=e.p+"static/media/Die Cutting.b27b478e.jpg"}}]);
+//# sourceMappingURL=212.c42e1738.chunk.js.map

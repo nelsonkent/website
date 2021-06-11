@@ -1,0 +1,51 @@
+<svg width="93" height="93" viewBox="0 0 93 93" fill="none" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+<style>
+#wave-red{position:absolute; top:0px; left:0; transform: translate(0px, 48px); animation: wave-red 11s infinite; fill: #cf202f;}
+#wave-gold{position:absolute; top:0px; left:0; transform: translate(0px, 48px); animation: wave-gold 11s infinite; fill: #ebab33;}
+#wave-green{position:absolute; top:0px; left:0; transform: translate(0px, 48px); animation: wave-green 11s infinite;  fill: #009783;}
+#wave-blue{position:absolute; top:0px; left:0; transform: translate(0px, 48px); animation: wave-blue 11s infinite;  fill: #0375bc;}
+	@keyframes wave-red {
+		0% {transform: translate(0px, 55px);}
+		45% {transform: translate(-420px, -60px);}
+		55% {transform: translate(-420px, -60px);}
+		100% {transform: translate(0px, 55px);}
+	}
+
+	@keyframes wave-gold {
+		0% {transform: translate(0px, 55px);}
+		40% {fill:#ebab33;}
+		45% {transform: translate(-480px, -30px); fill:#cf202f;}
+		55% {transform: translate(-480px, -30px); fill:#cf202f;}
+		65% {fill:#ebab33;}
+		100% {transform: translate(0px, 55px);}
+	}
+
+	@keyframes wave-green {
+		0% {transform: translate(0px, 55px);}
+		40% {fill: #009783;}
+		45% {transform: translate(-540px, -10px); fill:#cf202f;}
+		55% {transform: translate(-540px, -10px); fill:#cf202f;}
+		65% {fill: #009783;}
+		100% {transform: translate(0px, 55px);}
+	}
+
+	@keyframes wave-blue {
+		0% {transform: translate(0px, 55px);}
+		40% {fill: #0375bc;}
+		45% {transform: translate(-600px, 10px); fill:#cf202f;}
+		55% {transform: translate(-600px, 10px); fill:#cf202f;}
+		65% {fill: #0375bc;}
+		100% {transform: translate(0px, 55px);}
+	}
+</style>
+<rect x="0" y="0" height="93" width="93" style="fill:#F6F6F6"/>
+<path id="wave-red" d="M800,55.38V93H0V48s60.2-.1,87.42,0c14.8,0,24.8,7.3,41.89,7.36,19.65.07,22.27-6.09,39.13-6.12,26.53-.05,21.21,3.47,37.3,4.89,12.08,1.07,21.4-10.09,41-10.09,21.4,0,51.61,15.37,69.4,15.75C344,60.39,365.1,46,426.63,44c23.95-.76,49.07,19.88,78,9.12,35.71-13.29,71.13.86,86.22,4.34,40.36,0,11.92-25.68,89.88-6,4.65,2.33,28.44,8.4,45.86-2.76S800,55.38,800,55.38Z" transform="translate(0 -44.02)"/>
+<path id="wave-gold" d="M800,55.38V93H0V48s60.2-.1,87.42,0c14.8,0,24.8,7.3,41.89,7.36,19.65.07,22.27-6.09,39.13-6.12,26.53-.05,21.21,3.47,37.3,4.89,12.08,1.07,21.4-10.09,41-10.09,21.4,0,51.61,15.37,69.4,15.75C344,60.39,365.1,46,426.63,44c23.95-.76,49.07,19.88,78,9.12,35.71-13.29,71.13.86,86.22,4.34,40.36,0,11.92-25.68,89.88-6,4.65,2.33,28.44,8.4,45.86-2.76S800,55.38,800,55.38Z" transform="translate(0 -44.02)"/>
+<path id="wave-green" d="M800,55.38V93H0V48s60.2-.1,87.42,0c14.8,0,24.8,7.3,41.89,7.36,19.65.07,22.27-6.09,39.13-6.12,26.53-.05,21.21,3.47,37.3,4.89,12.08,1.07,21.4-10.09,41-10.09,21.4,0,51.61,15.37,69.4,15.75C344,60.39,365.1,46,426.63,44c23.95-.76,49.07,19.88,78,9.12,35.71-13.29,71.13.86,86.22,4.34,40.36,0,11.92-25.68,89.88-6,4.65,2.33,28.44,8.4,45.86-2.76S800,55.38,800,55.38Z" transform="translate(0 -44.02)"/>
+<path id="wave-blue" d="M800,55.38V93H0V48s60.2-.1,87.42,0c14.8,0,24.8,7.3,41.89,7.36,19.65.07,22.27-6.09,39.13-6.12,26.53-.05,21.21,3.47,37.3,4.89,12.08,1.07,21.4-10.09,41-10.09,21.4,0,51.61,15.37,69.4,15.75C344,60.39,365.1,46,426.63,44c23.95-.76,49.07,19.88,78,9.12,35.71-13.29,71.13.86,86.22,4.34,40.36,0,11.92-25.68,89.88-6,4.65,2.33,28.44,8.4,45.86-2.76S800,55.38,800,55.38Z" transform="translate(0 -44.02)"/>
+<path d="M0,0v93h93V0H0z M85.8,82.3l0-0.1c1.5,5.9,2.5,9.2,0.6,10.3c-3.3,2-7.9-6.9-8.9-14C74,54.4,81,33.4,83.1,24.7
+	c4.1-17-5.4-24.9-16.9-0.6c-8.7,18.3-8.8,29.7-12.8,47.3c-3,13.2-12.6,12.4-14.1,3.1C36.5,56.2,38.5,9.3,29.1,9.3
+	C20.2,9.4,18.2,56.6,18.9,83c0.3,8.8-2.8,9.6-4.9,9.7C7.5,93,8.7,54,2.4,44.3c-0.5-0.8-0.9-1.9-1.3-2.4c-3.4-4.8,1.7-5.2,4.9-1.5
+	c4.5,5.1,5.5,13.4,5.7,20.3C11.9,29.1,14.3-1.2,31.4,0c5.1,0.4,10.3,1.9,13,25.9c1.8,16.3,1.5,38.8,2,42.7
+	C47.6,60,56.7-0.6,81.6,0.3c10,0.4,11.4,10,11.4,14.6c0,9.9-4.7,19-6.8,35.3C85.1,59.2,83.9,74.7,85.8,82.3z" fill="#FFFFFF"/>
+</svg>

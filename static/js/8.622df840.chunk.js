@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[8],{1593:function(i,e,p){"use strict";p.r(e),e.default=p.p+"static/media/Drawing Supplies.fb175e74.jpg"}}]);
+//# sourceMappingURL=8.622df840.chunk.js.map

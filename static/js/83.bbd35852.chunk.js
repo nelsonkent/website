@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[83],{1668:function(s,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Craft Basics.4e966c68.jpg"}}]);
+//# sourceMappingURL=83.bbd35852.chunk.js.map

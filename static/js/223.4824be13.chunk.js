@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[223],{1808:function(i,s,e){"use strict";e.r(s),s.default=e.p+"static/media/Siser Vinyls.34a745df.jpg"}}]);
+//# sourceMappingURL=223.4824be13.chunk.js.map

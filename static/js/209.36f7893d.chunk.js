@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[209],{1814:function(t,c,e){"use strict";e.r(c),c.default=e.p+"static/media/Papercraft.c8f436c2.jpg"}}]);
+//# sourceMappingURL=209.36f7893d.chunk.js.map

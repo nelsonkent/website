@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[175],{1760:function(s,e,t){"use strict";t.r(e),e.default=t.p+"static/media/Storage Bins , Storage Boxes and Baskets.91d1ff0f.jpg"}}]);
+//# sourceMappingURL=175.94978e03.chunk.js.map

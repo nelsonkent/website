@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[211],{1796:function(i,t,a){"use strict";a.r(t),t.default=a.p+"static/media/Craft Organization.91d1ff0f.jpg"}}]);
+//# sourceMappingURL=211.28495689.chunk.js.map

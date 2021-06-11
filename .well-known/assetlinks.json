@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.michaels.mikstores.debug",
+    "sha256_cert_fingerprints":
+    ["D8:5B:F4:9D:7D:96:77:42:56:62:85:70:CD:DA:A9:77:67:DD:5B:0E:44:0B:A4:16:21:8E:39:C6:86:A4:99:1D"]
+  }
+}]

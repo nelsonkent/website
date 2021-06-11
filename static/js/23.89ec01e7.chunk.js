@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[23],{1608:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Cake Decor.51546e03.jpg"}}]);
+//# sourceMappingURL=23.89ec01e7.chunk.js.map

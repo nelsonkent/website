@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[179],{1765:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Building Toys.716d0ee6.jpg"}}]);
+//# sourceMappingURL=179.85d640cf.chunk.js.map

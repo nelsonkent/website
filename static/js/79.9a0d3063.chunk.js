@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[79],{1680:function(s,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Crafts & Hobbies.fd738c41.jpg"}}]);
+//# sourceMappingURL=79.9a0d3063.chunk.js.map

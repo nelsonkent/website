@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[115],{1700:function(s,i,a){"use strict";a.r(i),i.default=a.p+"static/media/Fashion Face Masks.4bb3c822.jpg"}}]);
+//# sourceMappingURL=115.f3009067.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[293],{1878:function(t,a,e){"use strict";e.r(a),a.default=e.p+"static/media/Blanket Yarn.13a2bbcf.jpg"}}]);
+//# sourceMappingURL=293.c1d95e99.chunk.js.map

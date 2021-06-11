@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[268],{1853:function(e,t,s){"use strict";s.r(t),t.default=s.p+"static/media/Storage Carts, Storage Totes & Storage Drawer Units.607ee034.jpg"}}]);
+//# sourceMappingURL=268.064362df.chunk.js.map

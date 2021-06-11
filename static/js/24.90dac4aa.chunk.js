@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[24],{1609:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Candy Making.2ec73dd6.jpg"}}]);
+//# sourceMappingURL=24.90dac4aa.chunk.js.map

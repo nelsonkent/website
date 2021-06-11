@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[18],{1603:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Storage & Studio Supplies.0e83e5df.jpg"}}]);
+//# sourceMappingURL=18.a545199b.chunk.js.map

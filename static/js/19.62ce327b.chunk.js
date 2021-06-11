@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[19],{1619:function(i,e,p){"use strict";p.r(e),e.default=p.p+"static/media/Baking Supplies.0c51cea7.jpg"}}]);
+//# sourceMappingURL=19.62ce327b.chunk.js.map

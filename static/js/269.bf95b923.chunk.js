@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[269],{1854:function(t,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Storage Carts.550eff38.jpg"}}]);
+//# sourceMappingURL=269.bf95b923.chunk.js.map

@@ -1,0 +1,100 @@
+<svg width="1280" height="64" viewBox="0 0 1280 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect width="1280" height="64" fill="#F2F2F2" />
+  <rect width="1440" height="1448" transform="translate(-80 -327)" fill="#F6F6F6" />
+  <g filter="url(#filter0_d)">
+    <rect x="-60" y="-247" width="1400" height="1350" rx="8" fill="white" />
+  </g>
+  <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="-60" y="-247" width="1400" height="1350">
+    <rect x="-60" y="-247" width="1400" height="1350" rx="8" fill="white" />
+  </mask>
+  <g mask="url(#mask0)">
+    <rect x="-28" y="-135" width="1336" height="952" fill="#F6F6F6" />
+    <rect y="-111" width="1280" height="674" fill="white" />
+    <rect y="-111" width="1280" height="5162.67" fill="url(#pattern0)" />
+    <rect width="1280" height="64" fill="#F2F2F2" />
+    <rect x="16" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M38.2705 33H73.5318V31H38.2705V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M96.7295 35L61.4682 35L61.4682 37L96.7295 37L96.7295 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M96.7295 27L61.4682 27L61.4682 29L96.7295 29L96.7295 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M84.6665 33H96.7296V31H84.6665V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M50.3335 35L38.2704 35L38.2704 37L50.3335 37L50.3335 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M50.3335 27L38.2704 27L38.2704 29L50.3335 29L50.3335 27Z" fill="#D3D3D3" />
+    <rect x="143" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M165.271 33H200.532V31H165.271V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M223.729 35L188.468 35L188.468 37L223.729 37L223.729 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M223.729 27L188.468 27L188.468 29L223.729 29L223.729 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M211.667 33H223.73V31H211.667V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M177.333 35L165.27 35L165.27 37L177.333 37L177.333 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M177.333 27L165.27 27L165.27 29L177.333 29L177.333 27Z" fill="#D3D3D3" />
+    <rect x="270" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M292.271 33H327.532V31H292.271V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M350.729 35L315.468 35L315.468 37L350.729 37L350.729 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M350.729 27L315.468 27L315.468 29L350.729 29L350.729 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M338.667 33H350.73V31H338.667V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M304.333 35L292.27 35L292.27 37L304.333 37L304.333 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M304.333 27L292.27 27L292.27 29L304.333 29L304.333 27Z" fill="#D3D3D3" />
+    <rect x="397" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M419.271 33H454.532V31H419.271V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M477.729 35L442.468 35L442.468 37L477.729 37L477.729 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M477.729 27L442.468 27L442.468 29L477.729 29L477.729 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M465.667 33H477.73V31H465.667V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M431.333 35L419.27 35L419.27 37L431.333 37L431.333 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M431.333 27L419.27 27L419.27 29L431.333 29L431.333 27Z" fill="#D3D3D3" />
+    <rect x="524" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M546.271 33H581.532V31H546.271V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M604.729 35L569.468 35L569.468 37L604.729 37L604.729 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M604.729 27L569.468 27L569.468 29L604.729 29L604.729 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M592.667 33H604.73V31H592.667V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M558.333 35L546.27 35L546.27 37L558.333 37L558.333 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M558.333 27L546.27 27L546.27 29L558.333 29L558.333 27Z" fill="#D3D3D3" />
+    <rect x="651" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M673.271 33H708.532V31H673.271V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M731.729 35L696.468 35L696.468 37L731.729 37L731.729 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M731.729 27L696.468 27L696.468 29L731.729 29L731.729 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M719.667 33H731.73V31H719.667V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M685.333 35L673.27 35L673.27 37L685.333 37L685.333 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M685.333 27L673.27 27L673.27 29L685.333 29L685.333 27Z" fill="#D3D3D3" />
+    <rect x="778" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M800.271 33H835.532V31H800.271V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M858.729 35L823.468 35L823.468 37L858.729 37L858.729 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M858.729 27L823.468 27L823.468 29L858.729 29L858.729 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M846.667 33H858.73V31H846.667V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M812.333 35L800.27 35L800.27 37L812.333 37L812.333 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M812.333 27L800.27 27L800.27 29L812.333 29L812.333 27Z" fill="#D3D3D3" />
+    <rect x="905" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M927.271 33H962.532V31H927.271V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M985.729 35L950.468 35L950.468 37L985.729 37L985.729 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M985.729 27L950.468 27L950.468 29L985.729 29L985.729 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M973.667 33H985.73V31H973.667V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M939.333 35L927.27 35L927.27 37L939.333 37L939.333 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M939.333 27L927.27 27L927.27 29L939.333 29L939.333 27Z" fill="#D3D3D3" />
+    <rect x="1032" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1054.27 33H1089.53V31H1054.27V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1112.73 35L1077.47 35L1077.47 37L1112.73 37L1112.73 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1112.73 27L1077.47 27L1077.47 29L1112.73 29L1112.73 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1100.67 33H1112.73V31H1100.67V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1066.33 35L1054.27 35L1054.27 37L1066.33 37L1066.33 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1066.33 27L1054.27 27L1054.27 29L1066.33 29L1066.33 27Z" fill="#D3D3D3" />
+    <rect x="1159" y="16" width="103" height="32" fill="#FBFBFB" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1181.27 33H1216.53V31H1181.27V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1239.73 35L1204.47 35L1204.47 37L1239.73 37L1239.73 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1239.73 27L1204.47 27L1204.47 29L1239.73 29L1239.73 27Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1227.67 33H1239.73V31H1227.67V33Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1193.33 35L1181.27 35L1181.27 37L1193.33 37L1193.33 35Z" fill="#D3D3D3" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1193.33 27L1181.27 27L1181.27 29L1193.33 29L1193.33 27Z" fill="#D3D3D3" />
+  </g>
+  <defs>
+    <filter id="filter0_d" x="-68" y="-255" width="1416" height="1366" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset />
+      <feGaussianBlur stdDeviation="4" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.917647 0 0 0 0 0.917647 0 0 0 0 0.917647 0 0 0 1 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+    </filter>
+    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#image0" transform="scale(0.000694444 0.000172176)" />
+    </pattern>
+  </defs>
+</svg>

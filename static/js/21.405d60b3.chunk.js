@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[21],{1606:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Baking.352567ff.jpg"}}]);
+//# sourceMappingURL=21.405d60b3.chunk.js.map

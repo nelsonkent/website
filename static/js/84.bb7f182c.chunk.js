@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[84],{1669:function(t,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Craft Paint & Stencils.57dc53b6.jpg"}}]);
+//# sourceMappingURL=84.bb7f182c.chunk.js.map

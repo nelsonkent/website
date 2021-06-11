@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[116],{1701:function(s,e,t){"use strict";t.r(e),e.default=t.p+"static/media/How to assemble the mask.a790760c.jpg"}}]);
+//# sourceMappingURL=116.bf89716f.chunk.js.map

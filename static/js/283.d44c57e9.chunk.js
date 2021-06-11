@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[283],{1868:function(i,t,e){"use strict";e.r(t),t.default=e.p+"static/media/David Tutera Collection.a17934c3.jpg"}}]);
+//# sourceMappingURL=283.d44c57e9.chunk.js.map

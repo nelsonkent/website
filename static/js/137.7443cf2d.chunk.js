@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[137],{1722:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Bulk Sewing & Fabric.fe5f9d4a.jpg"}}]);
+//# sourceMappingURL=137.7443cf2d.chunk.js.map

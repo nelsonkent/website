@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[7],{1592:function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/media/Artist Canvas.31db3373.jpg"}}]);
+//# sourceMappingURL=7.3d8df00f.chunk.js.map

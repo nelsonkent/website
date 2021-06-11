@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[36],{1621:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Bead Landing.83b03250.jpg"}}]);
+//# sourceMappingURL=36.0ed02841.chunk.js.map

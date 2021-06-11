@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[40],{1625:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Jewelry Cording.7261274e.jpg"}}]);
+//# sourceMappingURL=40.a8ae236a.chunk.js.map

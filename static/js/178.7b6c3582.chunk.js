@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[178],{1764:function(e,s,i){"use strict";i.r(s),s.default=i.p+"static/media/Beads & Jewelry.5d44ed50.jpg"}}]);
+//# sourceMappingURL=178.7b6c3582.chunk.js.map

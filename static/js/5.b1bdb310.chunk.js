@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[5],{1590:function(s,e,t){"use strict";t.r(e),e.default=t.p+"static/media/Art Desks & Easels.255134e2.jpg"}}]);
+//# sourceMappingURL=5.b1bdb310.chunk.js.map

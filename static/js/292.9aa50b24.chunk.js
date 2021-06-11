@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[292],{1877:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Baby Yarn.40220225.jpg"}}]);
+//# sourceMappingURL=292.9aa50b24.chunk.js.map

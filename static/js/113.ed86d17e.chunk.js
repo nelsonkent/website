@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[113],{1698:function(a,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Face Mask Making Materials.55f6ab62.jpg"}}]);
+//# sourceMappingURL=113.ed86d17e.chunk.js.map

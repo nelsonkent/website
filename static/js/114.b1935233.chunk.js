@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[114],{1699:function(i,e,a){"use strict";a.r(e),e.default=a.p+"static/media/Face Shield Making Materials.45290609.jpg"}}]);
+//# sourceMappingURL=114.b1935233.chunk.js.map

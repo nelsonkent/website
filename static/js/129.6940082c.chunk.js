@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[129],{1714:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/Front Door Decor.88e3d969.jpg"}}]);
+//# sourceMappingURL=129.6940082c.chunk.js.map

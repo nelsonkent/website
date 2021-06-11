@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[272],{1857:function(s,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Classroom Decorations.ff1ff035.jpg"}}]);
+//# sourceMappingURL=272.b51a2391.chunk.js.map

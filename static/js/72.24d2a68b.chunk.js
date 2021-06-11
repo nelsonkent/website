@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[72],{1657:function(e,s,a){"use strict";a.r(s),s.default=a.p+"static/media/Blank Surfaces.5eda715e.jpg"}}]);
+//# sourceMappingURL=72.24d2a68b.chunk.js.map

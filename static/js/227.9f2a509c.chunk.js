@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[227],{1812:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Stencils.42af837d.jpg"}}]);
+//# sourceMappingURL=227.9f2a509c.chunk.js.map

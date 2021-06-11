@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[44],{1629:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Polymer Clay.7864f376.jpg"}}]);
+//# sourceMappingURL=44.ee44169c.chunk.js.map

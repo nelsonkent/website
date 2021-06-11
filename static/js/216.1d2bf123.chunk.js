@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[216],{1801:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Infusible Ink.e76116b1.jpg"}}]);
+//# sourceMappingURL=216.1d2bf123.chunk.js.map

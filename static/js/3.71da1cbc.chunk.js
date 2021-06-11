@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[3],{1589:function(e,i,p){"use strict";p.r(i),i.default=p.p+"static/media/Apparel Crafting.fe2d1a4d.jpg"}}]);
+//# sourceMappingURL=3.71da1cbc.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[167],{1753:function(s,t,e){"use strict";e.r(t),t.default=e.p+"static/media/Mother's Day.38c16120.jpg"}}]);
+//# sourceMappingURL=167.0220d8b3.chunk.js.map

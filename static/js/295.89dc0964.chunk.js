@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[295],{1880:function(t,a,e){"use strict";e.r(a),a.default=e.p+"static/media/Caron\xae  Pantone\u2122 Yarn.96c9fcbd.jpg"}}]);
+//# sourceMappingURL=295.89dc0964.chunk.js.map

@@ -1,0 +1,27 @@
+/*
+Font: 		P22 Mackinac
+Style: 		Book
+URL: 		https://www.youworkforthem.com/font/T1999/p22-mackinac
+Foundry: 	IHOF
+Foundry: 	https://www.youworkforthem.com/designer/202/ihof
+Copyright:	Copyright  2011 by Case Studio, Inc. All rights reserved.
+Version: 	17
+Created:	March 19, 2015
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'P22MackinacBook';
+	src: url('p22-mackinac-book.eot');
+	src: url('p22-mackinac-book.eot?#iefix') format('embedded-opentype'),
+             url('p22-mackinac-book.woff2') format('woff2'),
+	     url('p22-mackinac-book.woff') format('woff'),
+	     url('p22-mackinac-book.ttf') format('truetype'),
+	     url('p22-mackinac-book.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[12],{1597:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Paint By Number.5defde53.jpg"}}]);
+//# sourceMappingURL=12.c4a6cbed.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[161],{1746:function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Jewelry storage.8a7a4298.jpg"}}]);
+//# sourceMappingURL=161.f8a01243.chunk.js.map

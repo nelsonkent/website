@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[301],{1886:function(a,i,p){"use strict";p.r(i),i.default=p.p+"static/media/Shop all yarn.dc5a9150.jpg"}}]);
+//# sourceMappingURL=301.16ef6a49.chunk.js.map

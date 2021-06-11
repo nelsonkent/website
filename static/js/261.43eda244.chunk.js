@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[261],{1846:function(t,e,i){"use strict";i.r(e),e.default=i.p+"static/media/Art Storage.6159d25e.jpg"}}]);
+//# sourceMappingURL=261.43eda244.chunk.js.map

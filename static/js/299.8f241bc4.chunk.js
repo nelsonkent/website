@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[299],{1884:function(s,e,i){"use strict";i.r(e),e.default=i.p+"static/media/Shop More Colors.80fa8218.jpg"}}]);
+//# sourceMappingURL=299.8f241bc4.chunk.js.map

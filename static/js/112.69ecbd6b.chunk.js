@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[112],{1697:function(t,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Cutting Materials.34a745df.jpg"}}]);
+//# sourceMappingURL=112.69ecbd6b.chunk.js.map

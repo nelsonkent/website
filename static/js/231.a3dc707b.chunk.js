@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[231],{1816:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Baby Shower.857fc35a.jpg"}}]);
+//# sourceMappingURL=231.a3dc707b.chunk.js.map

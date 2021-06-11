@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[22],{1607:function(i,p,s){"use strict";s.r(p),p.default=s.p+"static/media/Bulk Baking SUpplies.b074300f.jpg"}}]);
+//# sourceMappingURL=22.5cf0491b.chunk.js.map

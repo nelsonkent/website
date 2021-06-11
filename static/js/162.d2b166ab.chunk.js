@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[162],{1747:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Mini Picture Frames.23293b67.jpg"}}]);
+//# sourceMappingURL=162.d2b166ab.chunk.js.map

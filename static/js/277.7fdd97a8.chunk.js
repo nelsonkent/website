@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[277],{1862:function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Resources & Management.af7c6d7c.jpg"}}]);
+//# sourceMappingURL=277.7fdd97a8.chunk.js.map

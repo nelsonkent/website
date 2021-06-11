@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[125],{1710:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Artificial Trees.d8f1f327.jpg"}}]);
+//# sourceMappingURL=125.d156c88d.chunk.js.map

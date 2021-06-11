@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[48],{1633:function(s,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Virtual Classroom.1b73b1bd.jpg"}}]);
+//# sourceMappingURL=48.5d1ca9b2.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[145],{1730:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Dried FLoral.b562ecf3.jpg"}}]);
+//# sourceMappingURL=145.fc9186d6.chunk.js.map

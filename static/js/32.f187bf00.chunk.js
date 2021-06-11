@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[32],{1617:function(i,s,a){"use strict";a.r(s),s.default=a.p+"static/media/Sprinkles.a6cdc1aa.jpg"}}]);
+//# sourceMappingURL=32.f187bf00.chunk.js.map

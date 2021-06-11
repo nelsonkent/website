@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[225],{1810:function(i,t,p){"use strict";p.r(t),t.default=p.p+"static/media/Spin it.b49a2b6f.jpg"}}]);
+//# sourceMappingURL=225.2907e188.chunk.js.map

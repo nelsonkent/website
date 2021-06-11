@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[55],{1640:function(i,t,e){"use strict";e.r(t),t.default=e.p+"static/media/Cricut.ec8497a8.jpg"}}]);
+//# sourceMappingURL=55.45d95eb9.chunk.js.map

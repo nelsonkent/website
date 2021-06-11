@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[86],{1671:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Miniatures.5a08c7c5.jpg"}}]);
+//# sourceMappingURL=86.75162869.chunk.js.map

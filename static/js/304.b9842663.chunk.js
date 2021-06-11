@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[304],{1889:function(s,e,i){"use strict";i.r(e),e.default=i.p+"static/media/Wool Ease.2d2f4163.jpg"}}]);
+//# sourceMappingURL=304.b9842663.chunk.js.map

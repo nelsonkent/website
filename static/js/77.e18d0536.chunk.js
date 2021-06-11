@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[77],{1662:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Sewing Machines.46c7fdcf.jpg"}}]);
+//# sourceMappingURL=77.e18d0536.chunk.js.map

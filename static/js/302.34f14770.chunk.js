@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[302],{1887:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Shop by Material and Feel.946950e5.jpg"}}]);
+//# sourceMappingURL=302.34f14770.chunk.js.map

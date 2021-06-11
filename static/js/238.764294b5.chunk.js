@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[238],{1823:function(e,i,p){"use strict";p.r(i),i.default=p.p+"static/media/Shop by COlor.04964edc.jpg"}}]);
+//# sourceMappingURL=238.764294b5.chunk.js.map

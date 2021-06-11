@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[122],{1707:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/Protective Sneeze Guards.8c7ace5a.jpg"}}]);
+//# sourceMappingURL=122.5407c31a.chunk.js.map

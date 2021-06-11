@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[303],{1888:function(t,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Virtual Knitting and Crochet Classes.107cb986.jpg"}}]);
+//# sourceMappingURL=303.8980a126.chunk.js.map

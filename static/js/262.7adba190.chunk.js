@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[262],{1847:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/Home Storage & Organization.7894d9ea.jpg"}}]);
+//# sourceMappingURL=262.7adba190.chunk.js.map

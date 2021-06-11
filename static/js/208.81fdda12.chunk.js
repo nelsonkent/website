@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[208],{1793:function(t,i,e){"use strict";e.r(i),i.default=e.p+"static/media/Yarn, Knitting & Crochet.b22dfdb0.jpg"}}]);
+//# sourceMappingURL=208.81fdda12.chunk.js.map

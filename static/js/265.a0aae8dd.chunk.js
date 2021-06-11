@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[265],{1850:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Plastic Storage Bins & More.47a9373e.jpg"}}]);
+//# sourceMappingURL=265.a0aae8dd.chunk.js.map

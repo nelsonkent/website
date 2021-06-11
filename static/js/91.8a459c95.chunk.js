@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[91],{1676:function(e,i,p){"use strict";p.r(i),i.default=p.p+"static/media/Soap Making.61ee610e.jpg"}}]);
+//# sourceMappingURL=91.8a459c95.chunk.js.map

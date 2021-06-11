@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[61],{1646:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/Holiday & Seasonal Decor.1bf406ce.jpg"}}]);
+//# sourceMappingURL=61.f504dca8.chunk.js.map

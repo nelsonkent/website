@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[46],{1631:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Swarovski.5528620d.jpg"}}]);
+//# sourceMappingURL=46.44f58fcd.chunk.js.map

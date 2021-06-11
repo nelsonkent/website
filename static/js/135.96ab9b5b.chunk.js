@@ -1,0 +1,2 @@
+(this["webpackJsonpmik-web"]=this["webpackJsonpmik-web"]||[]).push([[135],{1728:function(i,p,s){"use strict";s.r(p),p.default=s.p+"static/media/Fabric Shop.24128b2c.jpg"}}]);
+//# sourceMappingURL=135.96ab9b5b.chunk.js.map
